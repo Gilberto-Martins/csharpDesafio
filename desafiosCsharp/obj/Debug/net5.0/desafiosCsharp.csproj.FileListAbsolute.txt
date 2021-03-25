@@ -1,0 +1,16 @@
+C:\Users\gilbe\projetos\csharpDesafio\desafiosCsharp\bin\Debug\net5.0\desafiosCsharp.exe
+C:\Users\gilbe\projetos\csharpDesafio\desafiosCsharp\bin\Debug\net5.0\desafiosCsharp.deps.json
+C:\Users\gilbe\projetos\csharpDesafio\desafiosCsharp\bin\Debug\net5.0\desafiosCsharp.runtimeconfig.json
+C:\Users\gilbe\projetos\csharpDesafio\desafiosCsharp\bin\Debug\net5.0\desafiosCsharp.runtimeconfig.dev.json
+C:\Users\gilbe\projetos\csharpDesafio\desafiosCsharp\bin\Debug\net5.0\desafiosCsharp.dll
+C:\Users\gilbe\projetos\csharpDesafio\desafiosCsharp\bin\Debug\net5.0\ref\desafiosCsharp.dll
+C:\Users\gilbe\projetos\csharpDesafio\desafiosCsharp\bin\Debug\net5.0\desafiosCsharp.pdb
+C:\Users\gilbe\projetos\csharpDesafio\desafiosCsharp\obj\Debug\net5.0\desafiosCsharp.csprojAssemblyReference.cache
+C:\Users\gilbe\projetos\csharpDesafio\desafiosCsharp\obj\Debug\net5.0\desafiosCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilbe\projetos\csharpDesafio\desafiosCsharp\obj\Debug\net5.0\desafiosCsharp.AssemblyInfoInputs.cache
+C:\Users\gilbe\projetos\csharpDesafio\desafiosCsharp\obj\Debug\net5.0\desafiosCsharp.AssemblyInfo.cs
+C:\Users\gilbe\projetos\csharpDesafio\desafiosCsharp\obj\Debug\net5.0\desafiosCsharp.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\projetos\csharpDesafio\desafiosCsharp\obj\Debug\net5.0\desafiosCsharp.dll
+C:\Users\gilbe\projetos\csharpDesafio\desafiosCsharp\obj\Debug\net5.0\ref\desafiosCsharp.dll
+C:\Users\gilbe\projetos\csharpDesafio\desafiosCsharp\obj\Debug\net5.0\desafiosCsharp.pdb
+C:\Users\gilbe\projetos\csharpDesafio\desafiosCsharp\obj\Debug\net5.0\desafiosCsharp.genruntimeconfig.cache
