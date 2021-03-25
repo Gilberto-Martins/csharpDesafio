@@ -8,6 +8,8 @@ namespace desafiosCsharp
         {
 
             /*
+
+            
             Aumento de Salário
 
             A empresa ABC resolveu conceder um aumento de salários a seus funcionários de
@@ -43,7 +45,7 @@ namespace desafiosCsharp
                                 Em percentual: 7 %
             */
 
-            
+
             double salario, reajuste, novoSalario, percentual;
             salario = Convert.ToDouble(Console.ReadLine());
 
